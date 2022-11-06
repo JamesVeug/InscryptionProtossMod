@@ -1,0 +1,19 @@
+{
+    "$id": 0,
+    "$type": "0|StarCraftCore.Scripts.Data.Sigils.AbilityData, StarCraftCore",
+    "ruleBookName": "Soul Absorption",
+    "ruleDescription": "When a card bearing this sigil takes enough damage that would kill it, it will absorb health from the weakest friendly card to keep it at 1 health.",
+    "power": 9,
+    "priority": 0,
+    "learnText": "Empower me, minions!",
+    "iconPath": "Artwork/Sigils/soul_absorption.png",
+    "metaCategories": {
+        "$id": 1,
+        "$type": "1|System.Collections.Generic.List`1[[DiskCardGame.AbilityMetaCategory, Assembly-CSharp]], mscorlib",
+        "$rlength": 2,
+        "$rcontent": [
+            0,
+            1
+        ]
+    }
+}

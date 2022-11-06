@@ -1,0 +1,11 @@
+{
+	"name": "JSON_khala",
+	"modPrefix": "Protoss",
+	"decals": ["JamesGames-ProtossMod/Artwork/watermark.png"],
+	"displayedName": "Khala",
+	"abilities": [],
+	"baseHealth": 2,
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"texture": "JamesGames-ProtossMod/Artwork/Cards/scarab.png"
+}

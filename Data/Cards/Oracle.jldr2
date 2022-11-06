@@ -1,0 +1,18 @@
+{
+	"name": "JSON_Oracle",
+	"modPrefix": "Protoss",
+	"decals": ["JamesGames-ProtossMod/Artwork/watermark.png"],
+	"displayedName": "Oracle",
+	"baseAttack": 4,
+	"baseHealth": 3,
+	"energyCost": 3,
+	"abilities": [],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"tailName": "Protoss_JSON_khala",
+	"description": "",
+	"texture": "JamesGames-ProtossMod/Artwork/Cards/oracle.png",
+	"emissionTexture": "JamesGames-ProtossMod/Artwork/Cards/oracle_emit.png",
+	"tribes": ["Bird"]
+}

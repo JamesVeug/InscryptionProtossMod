@@ -1,0 +1,19 @@
+{
+    "$id": 0,
+    "$type": "0|StarCraftCore.Scripts.Data.Sigils.AbilityData, StarCraftCore",
+    "ruleBookName": "Prismatic Alignment",
+    "ruleDescription": "When a card bearing this sigil deals damage to another card. This card will gain 1 damage. The damage resets when the card does not deal damage for a single turn.",
+    "power": 6,
+    "priority": 0,
+    "learnText": "",
+    "iconPath": "Artwork/Sigils/prismatic_alignment.png",
+    "metaCategories": {
+        "$id": 1,
+        "$type": "1|System.Collections.Generic.List`1[[DiskCardGame.AbilityMetaCategory, Assembly-CSharp]], mscorlib",
+        "$rlength": 2,
+        "$rcontent": [
+            0,
+            1
+        ]
+    }
+}

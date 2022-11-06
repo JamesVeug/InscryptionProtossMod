@@ -1,0 +1,19 @@
+{
+	"name": "JSON_MothershipCore",
+	"modPrefix": "Protoss",
+	"decals": ["JamesGames-ProtossMod/Artwork/watermark.png"],
+	"displayedName": "Mothership Core",
+	"baseAttack": 1,
+	"baseHealth": 1,
+	"energyCost": 1,
+	"abilities": [],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"onePerDeck": True,
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"tailName": "Protoss_JSON_khala",
+	"description": "",
+	"texture": "JamesGames-ProtossMod/Artwork/Cards/mothership_core.png",
+	"emissionTexture": "JamesGames-ProtossMod/Artwork/Cards/mothership_core_emit.png",
+	"tribes": ["Bird"]
+}

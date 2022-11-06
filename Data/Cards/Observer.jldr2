@@ -1,0 +1,18 @@
+{
+	"name": "JSON_Observer",
+	"modPrefix": "Protoss",
+	"decals": ["JamesGames-ProtossMod/Artwork/watermark.png"],
+	"displayedName": "Observer",
+	"baseAttack": 0,
+	"baseHealth": 1,
+	"bonesCost": 2,
+	"cardComplexity": "Simple",
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"abilities": ["Submerge","jamesgames.inscryption.starcraftcore.Detector"],
+	"temple": "Nature",
+	"tailName": "Protoss_JSON_khala",
+	"description": "",
+	"texture": "JamesGames-ProtossMod/Artwork/Cards/observer.png",
+	"emissionTexture": "JamesGames-ProtossMod/Artwork/Cards/observer_emit.png",
+	"tribes": ["Bird"]
+}

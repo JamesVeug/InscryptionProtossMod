@@ -1,0 +1,20 @@
+{
+	"name": "JSON_Tassadar",
+	"modPrefix": "Protoss",
+	"decals": ["JamesGames-ProtossMod/Artwork/watermark.png"],
+	"displayedName": "Tassadar",
+	"baseAttack": 1,
+	"baseHealth": 1,
+	"energyCost": 2,
+	"abilities": ["jamesgames.inscryption.starcraftcore.Splash Damage"],
+	"metaCategories": ["Rare"],
+	"appearanceBehaviour": ["RareCardBackground"],
+	"onePerDeck": True,
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"tailName": "Protoss_JSON_khala",
+	"description": "",
+	"texture": "JamesGames-ProtossMod/Artwork/Cards/tassadar.png",
+	"emissionTexture": "JamesGames-ProtossMod/Artwork/Cards/tassadar_emit.png",
+	"tribes": ["Bird"]
+}

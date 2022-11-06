@@ -1,0 +1,18 @@
+{
+	"name": "JSON_Scarab",
+	"modPrefix": "Protoss",
+	"decals": ["JamesGames-ProtossMod/Artwork/watermark.png"],
+	"displayedName": "Scarab",
+	"baseAttack": 1,
+	"baseHealth": 1,
+	"energyCost": 0,
+	"abilities": ["Brittle", "jamesgames.inscryption.starcraftcore.Splash Damage"],
+	"metaCategories": [],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"tailName": "Protoss_JSON_khala",
+	"description": "",
+	"texture": "JamesGames-ProtossMod/Artwork/Cards/scarab.png",
+	"emissionTexture": "JamesGames-ProtossMod/Artwork/Cards/scarab_emit.png",
+	"tribes": []
+}

@@ -1,0 +1,18 @@
+{
+	"name": "JSON_Probe",
+	"modPrefix": "Protoss",
+	"decals": ["JamesGames-ProtossMod/Artwork/watermark.png"],
+	"displayedName": "Probe",
+	"baseAttack": 1,
+	"baseHealth": 1,
+	"energyCost": 1,
+	"abilities": ["BoneDigger","BoneDigger"],
+	"metaCategories": ["ChoiceNode"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"tailName": "Protoss_JSON_khala",
+	"description": "",
+	"texture": "JamesGames-ProtossMod/Artwork/Cards/probe.png",
+	"emissionTexture": "JamesGames-ProtossMod/Artwork/Cards/probe_emit.png",
+	"tribes": ["Bird"]
+}

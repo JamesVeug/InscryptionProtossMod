@@ -1,0 +1,18 @@
+{
+	"name": "JSON_Zealot",
+	"modPrefix": "Protoss",
+	"decals": ["JamesGames-ProtossMod/Artwork/watermark.png"],
+	"displayedName": "Zealot",
+	"baseAttack": 1,
+	"baseHealth": 3,
+	"energyCost": 2,
+	"abilities": ["DoubleStrike"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"tailName": "Protoss_JSON_khala",
+	"description": "Powerful warriors willing to give their lives for Aiur",
+	"texture": "JamesGames-ProtossMod/Artwork/Cards/zealot.png",
+	"emissionTexture": "JamesGames-ProtossMod/Artwork/Cards/zealot_emit.png",
+	"tribes": ["Bird"]
+}

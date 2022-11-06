@@ -1,0 +1,18 @@
+{
+	"name": "JSON_Adept",
+	"modPrefix": "Protoss",
+	"decals": ["JamesGames-ProtossMod/Artwork/watermark.png"],
+	"displayedName": "Adept",
+	"baseAttack": 3,
+	"baseHealth": 3,
+	"energyCost": 2,
+	"abilities": [],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"tailName": "Protoss_JSON_khala",
+	"description": "",
+	"texture": "JamesGames-ProtossMod/Artwork/Cards/adept.png",
+	"emissionTexture": "JamesGames-ProtossMod/Artwork/Cards/adept_emit.png",
+	"tribes": ["Bird"]
+}

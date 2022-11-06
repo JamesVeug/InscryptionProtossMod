@@ -1,0 +1,18 @@
+{
+	"name": "JSON_Tempest",
+	"modPrefix": "Protoss",
+	"decals": ["JamesGames-ProtossMod/Artwork/watermark.png"],
+	"displayedName": "Tempest",
+	"baseAttack": 3,
+	"baseHealth": 3,
+	"energyCost": 3,
+	"abilities": ["Sniper"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"tailName": "Protoss_JSON_khala",
+	"description": "",
+	"texture": "JamesGames-ProtossMod/Artwork/Cards/tempest.png",
+	"emissionTexture": "JamesGames-ProtossMod/Artwork/Cards/tempest_emit.png",
+	"tribes": ["Bird"]
+}

@@ -1,0 +1,20 @@
+{
+	"name": "JSON_Zeratul",
+	"modPrefix": "Protoss",
+	"decals": ["JamesGames-ProtossMod/Artwork/watermark.png"],
+	"displayedName": "Zeratul",
+	"baseAttack": 4,
+	"baseHealth": 2,
+	"energyCost": 3,
+	"metaCategories": ["Rare"],
+	"appearanceBehaviour": ["RareCardBackground"],
+	"onePerDeck": True,
+	"abilities": ["Submerge", "jamesgames.inscryption.starcraftcore.Blink"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"tailName": "Protoss_JSON_khala",
+	"description": "",
+	"texture": "JamesGames-ProtossMod/Artwork/Cards/zeratul.png",
+	"emissionTexture": "JamesGames-ProtossMod/Artwork/Cards/zeratul_emit.png",
+	"tribes": ["Bird"]
+}

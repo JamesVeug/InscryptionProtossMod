@@ -1,0 +1,20 @@
+{
+	"name": "JSON_Alarak",
+	"modPrefix": "Protoss",
+	"decals": ["JamesGames-ProtossMod/Artwork/watermark.png"],
+	"displayedName": "Alarak",
+	"baseAttack": 3,
+	"baseHealth": 2,
+	"energyCost": 2,
+	"abilities": ["jamesgames.inscryption.protossmod.Soul Absorption"],
+	"metaCategories": ["Rare"],
+	"appearanceBehaviour": ["RareCardBackground"],
+	"onePerDeck": True,
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"tailName": "Protoss_JSON_khala",
+	"description": "Let our enemies come, I will enjoy crushing them into dust.",
+	"texture": "JamesGames-ProtossMod/Artwork/Cards/alarak.png",
+	"emissionTexture": "JamesGames-ProtossMod/Artwork/Cards/alarak_emit.png",
+	"tribes": ["Bird"]
+}

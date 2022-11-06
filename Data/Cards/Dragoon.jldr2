@@ -1,0 +1,18 @@
+{
+	"name": "JSON_Dragoon",
+	"modPrefix": "Protoss",
+	"decals": ["JamesGames-ProtossMod/Artwork/watermark.png"],
+	"displayedName": "Dragoon",
+	"baseAttack": 3,
+	"baseHealth": 3,
+	"energyCost": 2,
+	"abilities": ["Strafe"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"tailName": "Protoss_JSON_khala",
+	"description": "",
+	"texture": "JamesGames-ProtossMod/Artwork/Cards/dragoon.png",
+	"emissionTexture": "JamesGames-ProtossMod/Artwork/Cards/dragoon_emit.png",
+	"tribes": ["Bird"]
+}

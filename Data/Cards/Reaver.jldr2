@@ -1,0 +1,18 @@
+{
+	"name": "JSON_Reaver",
+	"modPrefix": "Protoss",
+	"decals": ["JamesGames-ProtossMod/Artwork/watermark.png"],
+	"displayedName": "Reaver",
+	"baseAttack": 1,
+	"baseHealth": 6,
+	"energyCost": 4,
+	"abilities": [],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"tailName": "Protoss_JSON_khala",
+	"description": "",
+	"texture": "JamesGames-ProtossMod/Artwork/Cards/reaver.png",
+	"emissionTexture": "JamesGames-ProtossMod/Artwork/Cards/reaver_emit.png",
+	"tribes": ["Bird"]
+}

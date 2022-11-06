@@ -1,0 +1,21 @@
+{
+    "$id": 0,
+    "$type": "0|ProtossMod.Scripts.Data.Sigils.CreateCardsAbilityData, ProtossMod",
+    "ruleBookName": "Build Interceptors",
+    "ruleDescription": "When a card bearing this sigil is played, Interceptors will be created adjacent to it. A Interceptor is defined as 1 power 1 health with Brittle and Double Strike",
+    "power": 0,
+    "priority": 0,
+    "learnText": "",
+    "iconPath": "Artwork/Sigils/interceptor.png",
+    "metaCategories": {
+        "$id": 1,
+        "$type": "1|System.Collections.Generic.List`1[[DiskCardGame.AbilityMetaCategory, Assembly-CSharp]], mscorlib",
+        "$rlength": 2,
+        "$rcontent": [
+            0,
+            1
+        ]
+    },
+    "spawnCardId": "Protoss_JSON_Interceptor",
+    "cannotSpawnDialogue": "No room for any Interceptors!"
+}

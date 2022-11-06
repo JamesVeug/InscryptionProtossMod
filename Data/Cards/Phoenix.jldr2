@@ -1,0 +1,18 @@
+{
+	"name": "JSON_Phoenix",
+	"modPrefix": "Protoss",
+	"decals": ["JamesGames-ProtossMod/Artwork/watermark.png"],
+	"displayedName": "Phoenix",
+	"baseAttack": 2,
+	"baseHealth": 3,
+	"energyCost": 2,
+	"abilities": ["Flying"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"tailName": "Protoss_JSON_khala",
+	"description": "",
+	"texture": "JamesGames-ProtossMod/Artwork/Cards/phoenix.png",
+	"emissionTexture": "JamesGames-ProtossMod/Artwork/Cards/phoenix_emit.png",
+	"tribes": ["Bird"]
+}

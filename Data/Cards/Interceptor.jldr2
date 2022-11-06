@@ -1,0 +1,17 @@
+{
+	"name": "JSON_Interceptor",
+	"modPrefix": "Protoss",
+	"decals": ["JamesGames-ProtossMod/Artwork/watermark.png"],
+	"displayedName": "Interceptor",
+	"baseAttack": 1,
+	"baseHealth": 1,
+	"energyCost": 0,
+	"abilities": ["Brittle", "DoubleStrike"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"tailName": "Protoss_JSON_khala",
+	"description": "",
+	"texture": "JamesGames-ProtossMod/Artwork/Cards/interceptor.png",
+	"emissionTexture": "JamesGames-ProtossMod/Artwork/Cards/interceptor_emit.png",
+	"tribes": ["Bird"]
+}

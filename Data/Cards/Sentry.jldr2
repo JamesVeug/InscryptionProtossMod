@@ -1,0 +1,18 @@
+{
+	"name": "JSON_Sentry",
+	"modPrefix": "Protoss",
+	"decals": ["JamesGames-ProtossMod/Artwork/watermark.png"],
+	"displayedName": "Sentry",
+	"baseAttack": 1,
+	"baseHealth": 1,
+	"energyCost": 1,
+	"abilities": [],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"tailName": "Protoss_JSON_khala",
+	"description": "",
+	"texture": "JamesGames-ProtossMod/Artwork/Cards/sentry.png",
+	"emissionTexture": "JamesGames-ProtossMod/Artwork/Cards/sentry_emit.png",
+	"tribes": ["Bird"]
+}

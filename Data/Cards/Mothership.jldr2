@@ -1,0 +1,20 @@
+{
+	"name": "JSON_Mothership",
+	"modPrefix": "Protoss",
+	"decals": ["JamesGames-ProtossMod/Artwork/watermark.png"],
+	"displayedName": "Mothership",
+	"baseAttack": 2,
+	"baseHealth": 10,
+	"energyCost": 3,
+	"abilities": ["AllStrike"],
+	"metaCategories": ["Rare"],
+	"appearanceBehaviour": ["RareCardBackground"],
+	"onePerDeck": True,
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"tailName": "Protoss_JSON_khala",
+	"description": "",
+	"texture": "JamesGames-ProtossMod/Artwork/Cards/mothership.png",
+	"emissionTexture": "JamesGames-ProtossMod/Artwork/Cards/mothership_emit.png",
+	"tribes": ["Bird"]
+}

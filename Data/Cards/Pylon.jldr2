@@ -1,0 +1,17 @@
+{
+	"name": "JSON_Pylon",
+	"modPrefix": "Protoss",
+	"decals": ["JamesGames-ProtossMod/Artwork/watermark.png"],
+	"displayedName": "Pylon",
+	"baseAttack": 0,
+	"baseHealth": 4,
+	"energyCost": 2,
+	"abilities": ["jamesgames.inscryption.protossmod.Pylon"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "",
+	"appearanceBehaviour": ["TerrainBackground"],
+	"texture": "JamesGames-ProtossMod/Artwork/Cards/pylon.png",
+	"tribes": ["Insect"],
+	"traits": ["Terrain"]
+}

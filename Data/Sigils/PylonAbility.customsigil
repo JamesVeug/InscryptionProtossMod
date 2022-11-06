@@ -1,0 +1,19 @@
+{
+    "$id": 0,
+    "$type": "0|StarCraftCore.Scripts.Data.Sigils.AbilityData, StarCraftCore",
+    "ruleBookName": "Pylon",
+    "ruleDescription": "When a card bearing this sigil is put on the board, your current and max energy increases by 1.",
+    "power": 6,
+    "priority": 0,
+    "learnText": "",
+    "iconPath": "Artwork/Sigils/soul_absorption.png",
+    "metaCategories": {
+        "$id": 1,
+        "$type": "1|System.Collections.Generic.List`1[[DiskCardGame.AbilityMetaCategory, Assembly-CSharp]], mscorlib",
+        "$rlength": 2,
+        "$rcontent": [
+            0,
+            1
+        ]
+    }
+}

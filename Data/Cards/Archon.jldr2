@@ -1,0 +1,19 @@
+{
+	"name": "JSON_Archon",
+	"modPrefix": "Protoss",
+	"decals": ["JamesGames-ProtossMod/Artwork/watermark.png"],
+	"displayedName": "Archon",
+	"baseAttack": 2,
+	"baseHealth": 6,
+	"energyCost": 3,
+	"abilities": ["jamesgames.inscryption.starcraftcore.Splash Damage", "jamesgames.inscryption.starcraftcore.Regenerate"],
+	"metaCategories": ["Rare"],
+	"appearanceBehaviour": ["RareCardBackground"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"tailName": "Protoss_JSON_khala",
+	"description": "",
+	"texture": "JamesGames-ProtossMod/Artwork/Cards/archon.png",
+	"emissionTexture": "JamesGames-ProtossMod/Artwork/Cards/archon_emit.png",
+	"tribes": ["Bird"]
+}
