@@ -1,7 +1,7 @@
 {
     "name": "ProtossMod",
     "version_number": "0.1.0",
-    "website_url": "https://github.com/JamesVeug/InscyptionProtossMod",
+    "website_url": "https://github.com/JamesVeug/InscryptionProtossMod",
     "description": "Unfinished! A StarCraft inspired mod that brings Protoss into the world of Inscryption",
     "dependencies": [
         "BepInEx-BepInExPack_Inscryption-5.4.1902",
