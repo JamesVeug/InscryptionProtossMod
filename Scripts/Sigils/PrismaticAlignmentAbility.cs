@@ -14,35 +14,32 @@ namespace ProtossMod.Scripts.Abilities
 		public static Ability ability = Ability.None;
 
 		private PlayableCard lastAttackedCard;
-		private bool attackedThisRound;
 		
 		public static void Initialize(Type declaringType)
 		{
 			ability = InitializeBase(Plugin.PluginGuid, declaringType, Plugin.Directory);
-			Plugin.Log.LogInfo("[PrismaticAlignmentAbility] " + ability);
 		}
 
 		public override bool RespondsToTurnEnd(bool playerTurnEnd)
 		{
-			return lastAttackedCard != null;
+			return lastAttackedCard != null && Card.OpponentCard == !playerTurnEnd;
 		}
 
 		public override IEnumerator OnTurnEnd(bool playerTurnEnd)
 		{
 			CardModificationInfo info = Card.TemporaryMods.Find((a) => a.singletonId == "PrismaticAlignment");
-			if (info != null && !attackedThisRound)
+			if (info != null)
 			{
 				Card.TemporaryMods.Remove(info);
 			}
 
 			lastAttackedCard = null;
-			attackedThisRound = false;
 			yield return null;
 		}
 
 		public override bool RespondsToDealDamage(int amount, PlayableCard target)
 		{
-			return base.RespondsToDealDamage(amount, target) && target != null && !target.Dead;
+			return target != null && !target.Dead;
 		}
 
 		public override IEnumerator OnDealDamage(int amount, PlayableCard target)
@@ -62,7 +59,6 @@ namespace ProtossMod.Scripts.Abilities
 			}
 
 			lastAttackedCard = target;
-			attackedThisRound = true;
 		}
 	}
 }
