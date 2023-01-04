@@ -6,7 +6,7 @@
 	"baseAttack": 1,
 	"baseHealth": 3,
 	"energyCost": 2,
-	"abilities": ["DoubleStrike"],
+	"abilities": ["Sentry"],
 	"metaCategories": ["ChoiceNode","TraderOffer"],
 	"cardComplexity": "Simple",
 	"temple": "Nature",
