@@ -1,12 +1,12 @@
 {
     "name": "ProtossMod",
-    "version_number": "0.1.0",
+    "version_number": "0.2.0",
     "website_url": "https://github.com/JamesVeug/InscryptionProtossMod",
     "description": "Unfinished! A StarCraft inspired mod that brings Protoss into the world of Inscryption",
     "dependencies": [
         "BepInEx-BepInExPack_Inscryption-5.4.1902",
-        "API_dev-API-2.6.0",
-        "JamesGames-StarCraftCore-1.0.0",
+        "API_dev-API-2.8.1",
+        "JamesGames-StarCraftCore-1.2.0",
         "MADH95Mods-JSONCardLoader-2.2.0"
     ]
 }
