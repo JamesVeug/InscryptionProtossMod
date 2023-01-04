@@ -6,7 +6,7 @@
 	"baseAttack": 3,
 	"baseHealth": 3,
 	"energyCost": 2,
-	"abilities": [],
+	"abilities": ["TailOnHit"],
 	"metaCategories": ["ChoiceNode","TraderOffer"],
 	"cardComplexity": "Simple",
 	"temple": "Nature",
