@@ -3,7 +3,7 @@
 	"modPrefix": "Protoss",
 	"decals": ["JamesGames-ProtossMod/Artwork/watermark.png"],
 	"displayedName": "Dragoon",
-	"baseAttack": 3,
+	"baseAttack": 2,
 	"baseHealth": 3,
 	"energyCost": 2,
 	"abilities": ["Strafe"],
