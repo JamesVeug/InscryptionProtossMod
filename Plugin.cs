@@ -6,6 +6,7 @@ using HarmonyLib;
 using InscryptionAPI.Card;
 using ProtossMod.Scripts.Abilities;
 using ProtossMod.Scripts.Cards;
+using ProtossMod.Scripts.Encounters;
 using StarCraftCore.Scripts.Abilities;
 
 namespace ProtossMod
@@ -35,6 +36,7 @@ namespace ProtossMod
             SoulAbsorptionAbility.Initialize(typeof(SoulAbsorptionAbility));
             PylonAbility.Initialize(typeof(PylonAbility));
             PrismaticAlignmentAbility.Initialize(typeof(PrismaticAlignmentAbility));
+            FeedbackAbility.Initialize(typeof(FeedbackAbility));
 
             // Cards
             XelNagaArtifact.Initialize();
@@ -43,7 +45,14 @@ namespace ProtossMod
 
             Logger.LogInfo($"Loaded {PluginName}!");
         }
-        
+
+        private void Start()
+        {
+	        // Encounters
+	        DarkTemplarEncounter.Initialize();
+	        ZealotRushEncounter.Initialize();
+        }
+
         public void ChangeSquirrelToLarva()
         {
 	        List<Ability> abilities = new List<Ability> { SplashDamageAbility.ability };
