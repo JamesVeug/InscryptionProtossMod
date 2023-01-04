@@ -1,0 +1,19 @@
+{
+    "$id": 0,
+    "$type": "0|StarCraftCore.Scripts.Data.Sigils.AbilityData, StarCraftCore",
+    "ruleBookName": "Feedback",
+    "ruleDescription": "When a card bearing this sigil is put on the board, its owner can chooser an enemy card to take the same amount of damage as the receivers damage.",
+    "power": 6,
+    "priority": 0,
+    "learnText": "",
+    "iconPath": "Artwork/Sigils/feedback.png",
+    "metaCategories": {
+        "$id": 1,
+        "$type": "1|System.Collections.Generic.List`1[[DiskCardGame.AbilityMetaCategory, Assembly-CSharp]], mscorlib",
+        "$rlength": 2,
+        "$rcontent": [
+            0,
+            1
+        ]
+    }
+}
