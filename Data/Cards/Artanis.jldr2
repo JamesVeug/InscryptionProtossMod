@@ -6,7 +6,7 @@
 	"baseAttack": 1,
 	"baseHealth": 1,
 	"energyCost": 1,
-	"abilities": [],
+	"abilities": ["jamesgames.inscryption.protossmod.Feedback"],
 	"metaCategories": ["Rare"],
 	"appearanceBehaviour": ["RareCardBackground"],
 	"onePerDeck": True,
