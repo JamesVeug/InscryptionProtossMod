@@ -12,6 +12,6 @@
 	"description": "",
 	"appearanceBehaviour": ["TerrainBackground"],
 	"texture": "JamesGames-ProtossMod/Artwork/Cards/pylon.png",
-	"tribes": ["Insect"],
+	"tribes": ["Bird"],
 	"traits": ["Terrain"]
 }
