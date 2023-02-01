@@ -27,8 +27,8 @@ namespace ProtossMod.Scripts.Cards
             appearanceBehaviour.Add(XelNagaBackground.CustomAppearance);
             
             List<Ability> abilities = new List<Ability>{ };
-            abilities.Add(Ability.QuadrupleBones);
-            abilities.Add(Ability.DrawCopyOnDeath);
+            abilities.Add(Ability.GainBattery);
+            abilities.Add(Ability.GainBattery);
 
             List<Trait> traits = new List<Trait> { Trait.Goat };
             List<Tribe> tribes = new List<Tribe> { Tribe.Insect, Tribe.Bird, Tribe.Canine };
@@ -43,7 +43,7 @@ namespace ProtossMod.Scripts.Cards
             card.metaCategories = metaCategories;
             card.cardComplexity = CardComplexity.Simple;
             card.temple = CardTemple.Nature;
-            card.SetCost(energyCost, BoneCost);
+            card.SetCost(0, BoneCost, energyCost);
             card.abilities = abilities;
             card.appearanceBehaviour = appearanceBehaviour;
             card.SetPortrait(Utils.GetTextureFromPath(TextureFile));
